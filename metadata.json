@@ -1,0 +1,5 @@
+{
+  "name": "Personal Assistant Task Manager",
+  "description": "A professional web application for personal assistants to manage office, house, and gardening maintenance tasks. This frontend application uses local storage for data persistence. For actual Google Sheet integration, a separate Google Apps Script backend would be required to expose the sheet as an API.",
+  "requestFramePermissions": []
+}
